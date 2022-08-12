@@ -1,4 +1,4 @@
-# Ubuntu-20.04-and-ROS-installation-into-Jetson-nano# installing-ubuntu-version-20.04.4-and-ROS2-into-Jetson-nano
+# installing-ubuntu-version-20.04.4-and-ROS2-into-Jetson-nano
 
 First I downloaded The virtual boxes version 6.1  , then created a new file named " ros_os1".
 Downloaded the ubuntu version  20.04.4 and followed the instruction.
